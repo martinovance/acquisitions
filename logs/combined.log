@@ -1,0 +1,29 @@
+{"level":"info","message":"Hello from acquisitions!","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [19/Sep/2025:15:34:56 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"Hello from acquisitions!","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [19/Sep/2025:15:35:16 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [19/Sep/2025:16:03:13 +0000] \"POST / HTTP/1.1\" 404 140 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"Hello from acquisitions!","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [19/Sep/2025:16:03:21 +0000] \"GET / HTTP/1.1\" 200 22 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [19/Sep/2025:16:03:35 +0000] \"GET /api HTTP/1.1\" 200 42 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [19/Sep/2025:16:03:43 +0000] \"GET /health HTTP/1.1\" 200 74 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [19/Sep/2025:16:45:01 +0000] \"POST /api/auth/signup HTTP/1.1\" 404 155 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [19/Sep/2025:16:45:18 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 404 156 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [19/Sep/2025:16:45:53 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 400 92 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"Hello from acquisitions!","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [19/Sep/2025:17:18:16 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"Hello from acquisitions!","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [19/Sep/2025:17:18:22 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"User adminmartin@gmail.com created successfully","service":"acquisitions-api"}
+{"level":"info","message":"User registered successfully: adminmartin@gmail.com","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [19/Sep/2025:17:18:35 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 201 114 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User userlance@gmail.com created successfully","service":"acquisitions-api"}
+{"level":"info","message":"User registered successfully: userlance@gmail.com","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [19/Sep/2025:18:26:47 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 201 109 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [19/Sep/2025:18:27:18 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 400 92 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User userlance@gmail.com authenticated successfully","service":"acquisitions-api"}
+{"level":"info","message":"User signed in successfully: userlance@gmail.com","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [19/Sep/2025:18:27:41 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 200 121 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User userlance@gmail.com authenticated successfully","service":"acquisitions-api"}
+{"level":"info","message":"User signed in successfully: userlance@gmail.com","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [19/Sep/2025:18:29:10 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 200 108 \"-\" \"HTTPie\"","service":"acquisitions-api"}
