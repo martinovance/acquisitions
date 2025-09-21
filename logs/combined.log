@@ -27,3 +27,132 @@
 {"level":"info","message":"User userlance@gmail.com authenticated successfully","service":"acquisitions-api"}
 {"level":"info","message":"User signed in successfully: userlance@gmail.com","service":"acquisitions-api"}
 {"level":"info","message":"::1 - - [19/Sep/2025:18:29:10 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 200 108 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User signed out successfully","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [19/Sep/2025:18:30:23 +0000] \"POST /api/auth/sign-out HTTP/1.1\" 200 42 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/","service":"acquisitions-api","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"level":"info","message":"::1 - - [21/Sep/2025:16:07:26 +0000] \"GET / HTTP/1.1\" 403 68 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/favicon.ico","service":"acquisitions-api","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"level":"info","message":"::1 - - [21/Sep/2025:16:07:27 +0000] \"GET /favicon.ico HTTP/1.1\" 403 68 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/health","service":"acquisitions-api","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [21/Sep/2025:16:07:58 +0000] \"GET /health HTTP/1.1\" 403 68 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/health","service":"acquisitions-api","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [21/Sep/2025:16:08:05 +0000] \"GET /health HTTP/1.1\" 403 68 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/health","service":"acquisitions-api","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [21/Sep/2025:16:10:04 +0000] \"GET /health HTTP/1.1\" 403 68 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/api/auth/sign-in","service":"acquisitions-api","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [21/Sep/2025:16:17:42 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 403 68 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/api/auth/sign-in","service":"acquisitions-api","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [21/Sep/2025:16:17:51 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 403 68 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/api/auth/sign-in","service":"acquisitions-api","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [21/Sep/2025:16:17:52 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 403 68 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/api/auth/sign-in","service":"acquisitions-api","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [21/Sep/2025:16:17:52 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 403 68 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/api/auth/sign-in","service":"acquisitions-api","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [21/Sep/2025:16:17:53 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 403 68 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","path":"/api/auth/sign-in","service":"acquisitions-api","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [21/Sep/2025:16:17:53 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 403 51 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","path":"/api/auth/sign-in","service":"acquisitions-api","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [21/Sep/2025:16:17:53 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 403 51 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","path":"/api/auth/sign-in","service":"acquisitions-api","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [21/Sep/2025:16:17:53 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 403 51 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","path":"/api/auth/sign-in","service":"acquisitions-api","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [21/Sep/2025:16:17:54 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 403 51 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","path":"/api/auth/sign-in","service":"acquisitions-api","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [21/Sep/2025:16:17:54 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 403 51 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","path":"/api/auth/sign-in","service":"acquisitions-api","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [21/Sep/2025:16:17:54 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 403 51 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","path":"/api/auth/sign-in","service":"acquisitions-api","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [21/Sep/2025:16:17:54 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 403 51 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","path":"/api/auth/sign-in","service":"acquisitions-api","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [21/Sep/2025:16:17:54 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 403 51 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","path":"/api/auth/sign-in","service":"acquisitions-api","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [21/Sep/2025:16:17:55 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 403 51 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","path":"/api/auth/sign-in","service":"acquisitions-api","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [21/Sep/2025:16:17:55 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 403 51 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","path":"/api/auth/sign-in","service":"acquisitions-api","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [21/Sep/2025:16:17:55 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 403 51 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","path":"/api/auth/sign-in","service":"acquisitions-api","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [21/Sep/2025:16:17:55 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 403 51 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","path":"/api/auth/sign-in","service":"acquisitions-api","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [21/Sep/2025:16:17:55 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 403 51 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","path":"/api/auth/sign-in","service":"acquisitions-api","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [21/Sep/2025:16:17:56 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 403 51 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","path":"/api/auth/sign-in","service":"acquisitions-api","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [21/Sep/2025:16:17:56 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 403 51 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","path":"/api/auth/sign-in","service":"acquisitions-api","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [21/Sep/2025:16:17:56 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 403 51 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","path":"/api/auth/sign-in","service":"acquisitions-api","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [21/Sep/2025:16:17:56 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 403 51 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","path":"/api/auth/sign-in","service":"acquisitions-api","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [21/Sep/2025:16:17:56 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 403 51 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","path":"/api/auth/sign-in","service":"acquisitions-api","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [21/Sep/2025:16:17:57 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 403 51 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","path":"/api/auth/sign-in","service":"acquisitions-api","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [21/Sep/2025:16:17:57 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 403 51 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","path":"/api/auth/sign-in","service":"acquisitions-api","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [21/Sep/2025:16:17:57 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 403 51 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","path":"/api/auth/sign-in","service":"acquisitions-api","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [21/Sep/2025:16:17:57 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 403 51 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","path":"/api/auth/sign-in","service":"acquisitions-api","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [21/Sep/2025:16:17:58 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 403 51 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","path":"/api/auth/sign-in","service":"acquisitions-api","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [21/Sep/2025:16:17:58 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 403 51 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","path":"/api/auth/sign-in","service":"acquisitions-api","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [21/Sep/2025:16:17:58 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 403 51 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","path":"/api/auth/sign-in","service":"acquisitions-api","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [21/Sep/2025:16:17:58 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 403 51 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","path":"/api/auth/sign-in","service":"acquisitions-api","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [21/Sep/2025:16:17:58 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 403 51 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","path":"/api/auth/sign-in","service":"acquisitions-api","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [21/Sep/2025:16:17:59 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 403 51 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","path":"/api/auth/sign-in","service":"acquisitions-api","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [21/Sep/2025:16:17:59 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 403 51 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","path":"/api/auth/sign-in","service":"acquisitions-api","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [21/Sep/2025:16:17:59 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 403 51 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","path":"/api/auth/sign-in","service":"acquisitions-api","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [21/Sep/2025:16:17:59 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 403 51 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","path":"/api/auth/sign-in","service":"acquisitions-api","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [21/Sep/2025:16:17:59 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 403 51 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","path":"/api/auth/sign-in","service":"acquisitions-api","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [21/Sep/2025:16:18:00 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 403 51 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","path":"/api/auth/sign-in","service":"acquisitions-api","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [21/Sep/2025:16:18:00 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 403 51 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","path":"/api/auth/sign-in","service":"acquisitions-api","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [21/Sep/2025:16:18:00 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 403 51 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","path":"/api/auth/sign-in","service":"acquisitions-api","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [21/Sep/2025:16:18:00 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 403 51 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","path":"/api/auth/sign-in","service":"acquisitions-api","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [21/Sep/2025:16:18:00 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 403 51 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","path":"/api/auth/sign-in","service":"acquisitions-api","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [21/Sep/2025:16:18:01 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 403 51 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","path":"/api/auth/sign-in","service":"acquisitions-api","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [21/Sep/2025:16:18:01 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 403 51 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","path":"/api/auth/sign-in","service":"acquisitions-api","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [21/Sep/2025:16:18:01 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 403 51 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","path":"/api/auth/sign-in","service":"acquisitions-api","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [21/Sep/2025:16:18:01 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 403 51 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/api/auth/sign-in","service":"acquisitions-api","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [21/Sep/2025:16:19:55 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 403 68 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/api/auth/sign-in","service":"acquisitions-api","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [21/Sep/2025:16:19:58 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 403 68 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/api/auth/sign-in","service":"acquisitions-api","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [21/Sep/2025:16:20:18 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 403 68 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User adminmartin@gmail.com authenticated successfully","service":"acquisitions-api"}
+{"level":"info","message":"User signed in successfully: adminmartin@gmail.com","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [21/Sep/2025:16:20:40 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 200 113 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User adminmartin@gmail.com authenticated successfully","service":"acquisitions-api"}
+{"level":"info","message":"User signed in successfully: adminmartin@gmail.com","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [21/Sep/2025:16:22:11 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 200 113 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [21/Sep/2025:16:22:56 +0000] \"POST /health HTTP/1.1\" 404 146 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [21/Sep/2025:16:23:03 +0000] \"GET /health HTTP/1.1\" 200 74 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [21/Sep/2025:16:23:05 +0000] \"GET /health HTTP/1.1\" 200 74 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [21/Sep/2025:16:23:06 +0000] \"GET /health HTTP/1.1\" 200 74 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [21/Sep/2025:16:23:06 +0000] \"GET /health HTTP/1.1\" 200 74 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","path":"/health","service":"acquisitions-api","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [21/Sep/2025:16:23:07 +0000] \"GET /health HTTP/1.1\" 403 51 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","path":"/health","service":"acquisitions-api","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [21/Sep/2025:16:23:07 +0000] \"GET /health HTTP/1.1\" 403 51 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","path":"/health","service":"acquisitions-api","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [21/Sep/2025:16:23:07 +0000] \"GET /health HTTP/1.1\" 403 51 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","path":"/health","service":"acquisitions-api","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [21/Sep/2025:16:23:07 +0000] \"GET /health HTTP/1.1\" 403 51 \"-\" \"HTTPie\"","service":"acquisitions-api"}
